@@ -1,6 +1,6 @@
 # NAME
 
-JSON::MergePatch - It's new $module
+JSON::MergePatch - A perl implementation of [JSON Merge Patch](http://tools.ietf.org/html/draft-ietf-appsawg-json-merge-patch-02)
 
 # SYNOPSIS
 
@@ -20,3 +20,4 @@ it under the same terms as Perl itself.
 # AUTHOR
 
 Tatsuya Tanaka <tanaka@cpan.org>
+
