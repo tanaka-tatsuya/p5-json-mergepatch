@@ -1,0 +1,3 @@
+[submodule "t/suite"]
+	path = t/suite
+	url = git@github.com:tanaka-tatsuya/JSON-MergePatch-Test.git
